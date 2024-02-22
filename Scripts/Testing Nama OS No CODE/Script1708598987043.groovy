@@ -25,8 +25,6 @@ Mobile.tap(findTestObject('Object Repository/android.widget.TextView - SMS Messa
 
 Mobile.tap(findTestObject('Object Repository/android.widget.CheckBox - Enable SMS broadcast receiver'), 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.CheckBox - Enable SMS broadcast receiver'), 0)
-
 Mobile.setText(findTestObject('Object Repository/android.widget.EditText'), '123456789', 0)
 
 Mobile.setText(findTestObject('Object Repository/android.widget.EditText (1)'), 'Ananta Khayana Putra', 0)
